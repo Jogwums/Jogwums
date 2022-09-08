@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Data Apps with Flask, Streamlit and ML Models
+
+- 🌱 I’m currently learning Financial Analysis and Advanced Flask
+
+- 👯 I’m looking to collaborate on Business Analysis and ML Projects
+
+- 💬 Ask me about Data Analysis, Python, Excel, SQL, Power Bi
+
+- ⚡ Fun fact: chicken is my fav 
+
 <!--
 **Jogwums/Jogwums** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
