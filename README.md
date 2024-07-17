@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Data Apps with Flask, Streamlit and ML Models
+- 🔭 I’m currently working on Data Apps with Django, Streamlit and ML Models
 
-- 🌱 I’m currently learning Financial Analysis and Advanced Flask
+- 🌱 I’m currently learning Financial Analysis and APIs
 
 - 👯 I’m looking to collaborate on Business Analysis and ML Projects
 
