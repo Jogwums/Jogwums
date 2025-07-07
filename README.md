@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Data Apps with Django, Streamlit and ML Models
+- 🔭 I’m currently working on Skupadi and Data Apps with Django, Streamlit and ML Models
 
-- 🌱 I’m currently learning Financial Analysis and APIs
+- 🌱 I’m currently learning Go and Business Management, 
 
-- 👯 I’m looking to collaborate on Business Analysis and ML Projects
+- 👯 I’m looking to collaborate on Training gigs, start-ups and AI/ML Projects
 
-- 💬 Ask me about Data Analysis, Python, Excel, SQL, Power Bi
+- 💬 Ask me about Data Analysis, Python, Excel, SQL, Power BI, Django, Frontend Development
 
 - ⚡ Fun fact: chicken is my fav 
 
