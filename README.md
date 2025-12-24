@@ -10,6 +10,7 @@
 
 - ⚡ Fun fact: chicken is my fav 
 
+- 💵 buy my secure password generator: https://selar.com/n96l422217
 <!--
 **Jogwums/Jogwums** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
